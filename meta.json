@@ -1,17 +1,20 @@
 {
-  "day": "Day001",
-  "title": "Tool title",
-  "description": "One-line description for this tool.",
-  "genre": "productivity",
-  "theme": "NeoLab",
-  "story_summary": "A compact tool created to reduce one repetitive task in daily work.",
-  "tool_name": "Tool title",
-  "core_action": "transform",
-  "twist": "One clear differentiator",
-  "one_sentence": "One-sentence description",
+  "day": "Day004",
+  "title": "Recall Loop Builder",
+  "description": "学習トピックから復習間隔つきのチェックリストを生成する。",
+  "genre": "learning",
+  "theme": "Mono",
+  "story_summary": "覚えたつもりを防ぐため、復習日を先に決める導線にした。",
+  "tool_name": "Recall Loop Builder",
+  "core_action": "generate",
+  "twist": "初回学習日から次回復習日を同時表示する",
+  "one_sentence": "学習内容の復習タイミングを自動で組み立てる学習支援ツール。",
   "keywords": [
-    "template"
+    "learning",
+    "review",
+    "memory",
+    "study"
   ],
-  "repo_name": "ai-dev-day-001",
-  "pages_url": "https://USERNAME.github.io/ai-dev-day-001/"
+  "repo_name": "ai-dev-day-004",
+  "pages_url": "https://ryo909.github.io/ai-dev-day-004/"
 }
